@@ -2,10 +2,10 @@
 
 ### 📊 Repository Stats
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/Exploit-Experts/QuantumComputing-study)](https://github.com/Exploit-Experts/QuantumComputing-study/issues)
-[![Forks](https://img.shields.io/github/forks/Exploit-Experts/QuantumComputing-study)](https://github.com/usuario/Exploit-Experts/QuantumComputing-study/members)
+[![Issues](https://img.shields.io/github/issues/Aethelon/QuantumComputing-study)](https://github.com/Aethelon/QuantumComputing-study/issues)
+[![Forks](https://img.shields.io/github/forks/Aethelon/QuantumComputing-study)](https://github.com/usuario/Aethelon/QuantumComputing-study/members)
 
-Welcome to the **Quantum Computing Study Notes** repository! This repository is a collection of learning materials and study notes created using Obsidian, designed to introduce and explain key concepts in **Quantum Computing** and related algorithms. 
+Welcome to the **Quantum Computing Study Notes** repository! This repository is a collection of learning materials and study notes created using Obsidian, designed to introduce and explain key concepts in **Quantum Computing** and related algorithms.
 
 ## 🧑‍💻 Topics Covered
 - **Introduction to Quantum Computing**: Learn about the origins, history, and the fundamental concepts of quantum computing.
@@ -17,7 +17,7 @@ This repository aims to provide a detailed resource for those looking to deepen 
 ## 🛠 How to Use
 - **Clone the Repository**: You can clone the repository to access all the notes offline.
     ```bash
-    git clone https://github.com/Exploit-Experts/QuantumComputing-study.git
+    git clone https://github.com/Aethelon/QuantumComputing-study.git
     ```
 - **Browse through Notes**: The notes are organized in the `notes` folder, divided by topics.
 
